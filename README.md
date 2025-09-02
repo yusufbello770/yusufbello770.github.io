@@ -1,12 +1,12 @@
 
 
-# 🎯 Start Your Cybersecurity Journey with AquilaCyber — Free, Simple, and Structured
+# 🎯 Start Your Cybersecurity Journey with YAB TECH — Free, Simple, and Structured
 
-Welcome to your all-in-one guide for breaking into cybersecurity — even if you’re starting from scratch or on a tight budget. This open-source repository by **[AquilaCyber](https://alturacyber.com/aquilacyber/)** is packed with curated, beginner-friendly, and hands-on resources to help you **learn core concepts**, **build practical skills**, and **explore career paths** — all without breaking the bank.
+Welcome to your all-in-one guide for breaking into cybersecurity — even if you’re starting from scratch or on a tight budget. This open-source repository by * YUSUF ALANI BELLO * is packed with curated, beginner-friendly, and hands-on resources to help you **learn core concepts**, **build practical skills**, and **explore career paths** — all without breaking the bank.
 
 Whether you're switching careers, exploring your curiosity, or preparing for your first cybersecurity job, this guide is here to help you learn efficiently and stay motivated.
 
-> ⚡ Built by the community at AquilaCyber — Nigeria’s grassroots movement for hands-on, gamified cybersecurity learning.
+> ⚡ Built by the community at YAB TECH — Nigeria’s grassroots movement for hands-on, gamified cybersecurity learning.
 
 ---
 
@@ -99,6 +99,6 @@ Hands-on experience is key! Learn how to use the tools used by both Red Teams an
 - 🤝 Submit a pull request to contribute.
 - 📣 Share with someone who’s just starting out.
 
-> 🛡️ Powered by **[AquilaCyber](https://alturacyber.com/aquilacyber/)** — Nigeria's bold, community-driven platform for cybersecurity training, labs, and mentorship.
+> 🛡️ Powered by YAB TECH Nigerian's bold, community-driven platform for cybersecurity training, labs, and mentorship.
 
 Let’s build, learn, and protect the digital world — together.
