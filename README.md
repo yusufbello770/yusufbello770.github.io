@@ -90,7 +90,7 @@ Hands-on experience is key! Learn how to use the tools used by both Red Teams an
 
 ---
 
-## 🙌 Join the Movement
+## 🙌 Join the Movement by contacting yusufbello770@gmail.com
 
 🎉 This is just the beginning — and you’re not alone.
 
